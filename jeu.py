@@ -1,3 +1,4 @@
+# Version améliorée avec gestion des erreurs
 import random
 
 def jouer():
